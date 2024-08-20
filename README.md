@@ -59,4 +59,10 @@ Importance in Software quality Assurance: It measures such as code reviews, auto
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering is like creating a special recipe for your robot. Just like a recipe tells you exactly what ingredients to use and how to mix them to bake a delicious cake, a prompt tells the robot exactly what information you need and how you want it presented.
+Define prompt engineering and discuss its importance in interacting with AI models.
+
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Let’s say you want to know how to make a sandwich. Instead of saying, “Tell me about sandwiches,” which might give you a lot of different and unrelated information, you could say, “Give me a step-by-step recipe for making a peanut butter and jelly sandwich.” This is a well-engineered prompt because it’s clear and specific, helping the robot (or an AI) give you the best answer quickly.
+In short, prompt engineering is all about crafting your questions or instructions in a way that helps get the best responses from your robot or AI assistant. It’s like being a great chef for your robot, ensuring it has the perfect “ingredients” to serve you exactly what you need!
